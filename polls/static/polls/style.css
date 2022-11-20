@@ -1,0 +1,8 @@
+body {
+    background: white url("images/nebula.jpg") no-repeat center;
+    background-size: cover;
+}
+
+li a {
+    color: white;
+}
